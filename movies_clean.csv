@@ -1,0 +1,6 @@
+title,genres,Romance,Drama,Family,Action,Comedy,Adventure,Thriller
+Movie 1,Action|Adventure,0,0,0,1,0,1,0
+Movie 2,Drama|Romance,1,1,0,0,0,0,0
+Movie 3,Action|Thriller,0,0,0,1,0,0,1
+Movie 4,Drama,0,1,0,0,0,0,0
+Movie 5,Comedy|Family,0,0,1,0,1,0,0
